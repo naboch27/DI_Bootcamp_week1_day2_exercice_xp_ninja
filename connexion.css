@@ -1,0 +1,129 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+.block-con-1,
+.block-con-2 {
+    width: 40%;
+
+}
+
+.block-con-2 {
+    background-color: rgb(147, 100, 190);
+    color: white;
+}
+
+.block-con-1 {
+    background-color: #e0e0e0;
+
+}
+
+.block-main {
+    height: 500px;
+    margin-left: 210px;
+    margin-top: 60px;
+    display: flex;
+    align-content: center;
+    border-radius: 5px;
+}
+
+.bloc-sou-1 {
+    text-align: center;
+    margin: 60px;
+}
+
+h1 {
+    margin: 30px;
+}
+
+.inp-log {
+    width: 300px;
+    height: 30px;
+    border: 1px solid rgb(167, 166, 166);
+    background-color: rgb(167, 166, 166);
+    color: silver;
+    cursor: pointer;
+}
+
+.inp-che {
+    margin: 20px;
+}
+
+.forget {
+    margin-left: 60px;
+}
+
+.cl-ico {
+    color: silver;
+    font-size: 25px;
+    margin-left: 20px;
+    cursor: pointer;
+
+}
+
+.bt-cl {
+    background-color: rgb(147, 100, 190);
+    color: white;
+}
+
+.ico-usr {
+    font-size: 80px;
+}
+
+.con-with {
+    margin: 30px;
+}
+
+.grop-ico {
+    margin: 20px;
+}
+
+.grp-ico-usr {
+    text-align: center;
+}
+
+.grp-ico-usr {
+    font-size: 60px;
+}
+
+.grp-ico-usr-txt {
+    text-align: center;
+}
+
+.grp-ico-usr-txt {
+    font-size: 20px;
+}
+
+.grp-ico-usr-bt {
+    margin-top: 30px;
+}
+
+.grp-ico-usr-bt1 {
+    height: 50px;
+    width: 150px;
+    border-radius: 30px;
+    color: white;
+    border: 1px solid white;
+    background-color: rgb(147, 100, 190);
+    cursor: pointer;
+
+}
+
+.grp-ico-usr-ico {
+    font-size: 20px;
+    margin-left: 2px;
+}
+
+.con-with-1 {
+    text-decoration: underline;
+    text-underline-position: right;
+    text-decoration-color: #1c87c9;
+}
+
+.foot-txt {
+    margin-top: 30px;
+    text-align: center;
+
+}
